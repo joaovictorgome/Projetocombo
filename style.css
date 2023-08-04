@@ -17,7 +17,7 @@ body{
 }
 
 .principal  {
-    background-image: url("img/Background.png");
+    background-image: url("Background.png");
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -40,5 +40,5 @@ body{
 
 .botao_secundario{
     background-color: transparent;
-    border: 2px solid var var(--branco-principal);
+    border: 2px solid var(--branco-principal);
 }
